@@ -1,0 +1,14 @@
+C:\Users\Edwar\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Workout Program.exe
+C:\Users\Edwar\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Workout Program.deps.json
+C:\Users\Edwar\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Workout Program.runtimeconfig.json
+C:\Users\Edwar\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Workout Program.runtimeconfig.dev.json
+C:\Users\Edwar\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Workout Program.dll
+C:\Users\Edwar\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Workout Program.pdb
+C:\Users\Edwar\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Workout Program.csproj.AssemblyReference.cache
+C:\Users\Edwar\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Workout Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwar\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Workout Program.AssemblyInfoInputs.cache
+C:\Users\Edwar\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Workout Program.AssemblyInfo.cs
+C:\Users\Edwar\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Workout Program.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Workout Program.dll
+C:\Users\Edwar\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Workout Program.pdb
+C:\Users\Edwar\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Workout Program.genruntimeconfig.cache
